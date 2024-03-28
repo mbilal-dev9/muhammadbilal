@@ -308,7 +308,7 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "optionDepth",
+    name: "Options Depth",
     description:
       "This website works on trading charts. Advance trading chart library and plotly library is used to show charts.The main purpose of the site is to access Market Makers' Real Options Positions and Advanced Computational Insights.",
     tags: [
