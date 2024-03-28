@@ -161,27 +161,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "I highly recommend Bilal. He's a top-notch professional, exceeding expectations with exceptional communication and expertise in website design, both frontend and backend.",
+    name: "Kev",
+    designation: "CEO",
+    company: "MjAccessories",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Bilal's professionalism, expertise, and dedication made his a pleasure to work with. His exceptional technical skills and attention to detail resulted in a flawlessly responsive website, surpassing all expectations.",
+    name: "Umer",
+    designation: "CEO",
+    company: "Umer Studio",
+    image: "https://www.upwork.com/profile-portraits/c1-y1E-BfbwgmbkeE8-7QyFBqhcPJx1M3Ntf0m8ZRjsYmHkiRvi1Pm3yV0PD42XkNu",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I never have enough to say about Bilal. He just simply exceeds expectations. Which is exactly what our company is all about.",
+    name: "Tracy Dinh",
+    designation: "HR",
+    company: "BITS",
+    image: "https://www.upwork.com/profile-portraits/c17p_KeqeJpdeuyG27X8yE3yKPHt0kD7c9GCcBBkYCs4rfuaSeI3slCtmfzJaDUYtK",
   },
 ];
 
