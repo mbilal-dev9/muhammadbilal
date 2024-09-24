@@ -18,7 +18,7 @@ import {
   threejs,
   enxsys,
   fiver,
-  cogentLogo,
+  rStackLogo,
   kokoNetworks,
   booosted,
   upworkpowertools,
@@ -119,8 +119,8 @@ const technologies = [
 const experiences = [
   {
     title: "Senior Frontend Developer",
-    company_name: "Cogent Labs",
-    icon: cogentLogo,
+    company_name: "R. Solutions",
+    icon: rStackLogo,
     iconBg: "#ffffff",
     date: "March 2023 - Present",
     points: [
@@ -148,7 +148,7 @@ const experiences = [
     company_name: "Fiver",
     icon: fiver,
     iconBg: "#ffffff",
-    date: "Jan 2019 - Present",
+    date: "Jan 2020 - june 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

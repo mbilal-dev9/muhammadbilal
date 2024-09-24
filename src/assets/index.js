@@ -27,7 +27,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import enxsys from './company/enxsys.png';
 import fiver from './company/fiver.png';
-import cogentLogo from './company/cogentLogo.png'
+import cogentLogo from './company/cogentLogo.png';
+import rStackLogo from './company/rstack.jpg';
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -85,4 +86,5 @@ export {
   project1,
   fintron,
   optionsDepth,
+  rStackLogo,
 };
